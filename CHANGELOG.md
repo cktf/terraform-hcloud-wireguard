@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.2...1.0.3) (2022-07-28)
+
+
+### Bug Fixes
+
+* force all endings to LF ([1397610](https://github.com/cktf/terraform-hcloud-wireguard/commit/139761090bc6888192d6b468bbabd9370d99463e))
+
 ## [1.0.2](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.1...1.0.2) (2022-07-26)
 
 
