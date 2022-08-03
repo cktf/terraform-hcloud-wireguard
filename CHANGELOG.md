@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.4...1.0.5) (2022-08-03)
+
+
+### Bug Fixes
+
+* add egress rules to firewall ([8d4d58b](https://github.com/cktf/terraform-hcloud-wireguard/commit/8d4d58bf76a4f70f33cdc54224f1a50fbaa13a07))
+
 ## [1.0.4](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.3...1.0.4) (2022-08-03)
 
 
