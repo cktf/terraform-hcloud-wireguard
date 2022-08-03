@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.3...1.0.4) (2022-08-03)
+
+
+### Bug Fixes
+
+* add description to firewall rule ([a3670ec](https://github.com/cktf/terraform-hcloud-wireguard/commit/a3670ec5917a241894b3f93353e23bd528ebe64f))
+
 ## [1.0.3](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.2...1.0.3) (2022-07-28)
 
 
