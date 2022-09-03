@@ -6,6 +6,7 @@ provider "registry.terraform.io/hashicorp/tls" {
   constraints = "~> 3.4.0"
   hashes = [
     "h1:RS6P09hCyDYlqbK80SlnKMuqYg4MEvw+xyIf9Ca8WPM=",
+    "h1:oyllIA9rNGCFtClSyBitUIzCXdnKtspVepdsvpLlfys=",
     "zh:2442a0df0cfb550b8eba9b2af39ac06f54b62447eb369ecc6b1c29f739b33bbb",
     "zh:3ebb82cacb677a099de55f844f0d02886bc804b1a2b94441bc40fabcb64d2a38",
     "zh:436125c2a7e66bc62a4a7c68bdca694f071d7aa894e8637dc83f4a68fe322546",
@@ -25,6 +26,7 @@ provider "registry.terraform.io/hetznercloud/hcloud" {
   version     = "1.35.1"
   constraints = "~> 1.35.0"
   hashes = [
+    "h1:FgSVN8CkqWt+iHhTYPPVQgoltoO8FGI+quB0PZucfj4=",
     "h1:eY0dM98ICOjjOUkTDvrbfCtNZ7qkYo5kgYh8Km7jxWQ=",
     "zh:055161a3bec0b09db32b2488ac9036e46e7867c3319af182329157a1ff72ca00",
     "zh:08f0d5b31dfac682df21a3f193aac93522a05e83e8eca26c547d2baa2858238b",
@@ -48,6 +50,7 @@ provider "registry.terraform.io/ojford/wireguard" {
   constraints = "~> 0.2.1+1"
   hashes = [
     "h1:6D9mP0fJt+dZ+5PYhQWvgBCQaIUTpCbK6rr5zp9jOyA=",
+    "h1:uBMDdiA1nZQoZTDFkYdfOCrggSI/6Wfs8nc5LsIV2fo=",
     "zh:35d43d88fb94bea7044e9b33843850321b885168a0a13927b76aa2d34e15875f",
     "zh:3e38aa2b92dca1cf4f9bde639bfd8b563a26b16bef1c64483d3f4635dfb051c9",
     "zh:41c8d3e40ab37c2a5492c5b982006d76fdf7c6b094db91efa46418321eb155f7",
