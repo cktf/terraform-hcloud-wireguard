@@ -14,7 +14,7 @@ variable "type" {
 
 variable "location" {
   type        = string
-  default     = "nbg1"
+  default     = "fsn1"
   sensitive   = false
   description = "Wireguard Location"
 }

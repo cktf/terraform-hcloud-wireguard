@@ -1,17 +1,5 @@
 #!/bin/sh
 
-sudo cat > /etc/netplan/60-floating-ip.yaml <<- EOF
-network:
-    version: 2
-    renderer: networkd
-    ethernets:
-        eth0:
-            addresses:
-                - ${public_ip}/32
-EOF
-
-sudo netplan apply
-
 sudo apt update -y
 sudo apt install -y wireguard-dkms wireguard-tools
 
