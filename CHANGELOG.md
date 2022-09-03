@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.1.0...1.2.0) (2022-09-03)
+
+
+### Features
+
+* replace floating_ip with primary ip ([108a7f5](https://github.com/cktf/terraform-hcloud-wireguard/commit/108a7f52864e4ff65f53748c2ef62e72840d2053))
+
 # [1.1.0](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.5...1.1.0) (2022-09-03)
 
 
