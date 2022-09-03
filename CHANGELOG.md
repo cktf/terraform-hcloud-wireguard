@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.5...1.1.0) (2022-09-03)
+
+
+### Bug Fixes
+
+* change firewall ingress rule ([0c7e416](https://github.com/cktf/terraform-hcloud-wireguard/commit/0c7e416b7735e7711712c2686ad88a50fd974c48))
+
+
+### Features
+
+* add linux support to terraform lock file ([9ae49b0](https://github.com/cktf/terraform-hcloud-wireguard/commit/9ae49b090dda1a44ca963540bdb1300768bd76ea))
+
 ## [1.0.5](https://github.com/cktf/terraform-hcloud-wireguard/compare/1.0.4...1.0.5) (2022-08-03)
 
 
